@@ -1,4 +1,0 @@
-<?php
-header("Location: /robots.php", true, 301);
-exit;
-?>
